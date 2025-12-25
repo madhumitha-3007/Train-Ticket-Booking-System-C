@@ -25,5 +25,4 @@ and then calculates the ticket cost.
 User selects destination, class, and number of tickets, and the program displays the cost.
 
 This project is created for academic and learning purposes.
-# Train-Ticket-Booking-System-C
-Console-based train ticket booking system in C.
+
